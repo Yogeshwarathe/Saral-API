@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Learning Yogesh",
+    "description": "He is a student of NavGurukul",
+    "id": 1
+  },
+  {
+    "name": "Learning Satyam",
+    "description": "In this course we learn Python.",
+    "id": 2
+  },
+  {
+    "name": "Learning Anand",
+    "description": "In this course we learn about Nodejs express.",
+    "id": 3
+  },
+  {
+    "name": "Learning Yogendra",
+    "description": "In this course we learn HTML and CSS.",
+    "id": 4
+  },
+  {
+    "name": "Learning Pratik",
+    "description": "In this course we learn about flask.",
+    "id": 5
+  }
+]
